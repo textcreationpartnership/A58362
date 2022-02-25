@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reflections on the papers deliver'd by Mr. Charnock, Mr. King, and Mr. Key, to the sheriffs, on the day of their execution</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58362</idno>
+            <idno type="STC">Wing R708</idno>
+            <idno type="STC">ESTC R200403</idno>
+            <idno type="EEBO-CITATION">99825064</idno>
+            <idno type="PROQUEST">99825064</idno>
+            <idno type="VID">29436</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58362)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29436)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2055:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reflections on the papers deliver'd by Mr. Charnock, Mr. King, and Mr. Key, to the sheriffs, on the day of their execution</title>
+                  <author>King, Edward, d. 1696.</author>
+                  <author>Keyes, Thomas, d. 1696.</author>
+                  <author>Charnock, Robert, 1663?-1696.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for William Rogers at the Sun against St. Dunstans-Church in Fleetstreet,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Lambeth Palace Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Assassination attempt, 1696 --  Early works to 1800.</term>
+               <term>Lancashire Plot, 1689-1694 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:29436:1" rendition="simple:additions"/>
+            <head>REFLECTIONS On the PAPERS Deliver'd by Mr. <hi>Charnock,</hi> Mr. <hi>King,</hi> and Mr. <hi>Key,</hi> To the SHERIFFS, <hi>On the Day of their Execution.</hi>
+            </head>
+            <floatingText type="letter">
+               <body>
+                  <head>Mr. <hi>CHERNOCK</hi>'s Paper.</head>
+                  <p>THAT I might avoid diſtractions, and be Compoſed as much as poſſible at the time of my Execution, I thought it much more proper to Communicate This to the Sheriffs, than to give my ſelf the Uneaſineſs of ſpeaking, leaving it to them to publiſh (if they ſhould think convenient) for the Satisfaction of the World; and in what I have to ſay, I have taken as much care as I could to be ſhort, that I might not loſe time in my greateſt Concern.</p>
+                  <p>As concerning an Invaſion intended by King <hi>James</hi> upon <hi>England,</hi> and that there was certain Intelligence of it from Abroad, I preſume every body was ſatisfied; and to the facilitating of which, I own that my ſelf and ſome others did agree upon the Undertaking, to Attack the Prince of <hi>Orange</hi> and his Guards, for which I am now to Suffer; but I think my ſelf obliged by all the Tyes imaginable, both of Conſcience and Honour, to declare, That as for any Order or Commiſſion of King <hi>James</hi>'s for Aſſaſſinating the Prince of <hi>Orange,</hi> I neither ſaw, nor knew of any; but have had frequent Aſſurances of his having rejected ſuch Propoſals when they have been Offer'd.</p>
+                  <p>I confeſs I did hear, that there was a Commiſſion arrived for Levying of War, and which was natural to believe, if the King was in ſuch a readineſs to come over as was reported; bu if there was any ſuch Autho<g ref="char:EOLhyphen"/>rity as that, I declare I never ſaw it.</p>
+                  <p>As to what regards the Body of the <hi>Roman Catholicks,</hi> I muſt do them this Juſtice, and which I dare be poſitive in, That they had no manner of Knowledge of this Deſign, nor do I believe it was Communicated to any other Party of ſuch as are reputed the King's Friends, but carried on meerly by a ſmall Number, without the Advice, Conſent, or Privity of any Parties whatſoever.</p>
+                  <p>I ask forgiveneſs of all the World for what Offences or Injuries I have done to them; and I am (I bleſs Almighty God) in perfect Charity with all Mankind.</p>
+                  <closer>
+                     <signed>Robert Chernocke.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <pb n="2" facs="tcp:29436:2"/>
+                  <head>Mr. <hi>KING</hi>'s Paper.</head>
+                  <p>I Am now within a few Moments of Eternity, brought to this Place by the Juſt Hand of God in Puniſhment of all my Crimes; but particu<g ref="char:EOLhyphen"/>larly of that, of which I have been lately Arraign'd, and for which I ſtand here Condemn'd; but I hope, that Goodneſs of God, which has given me a Senſe of my Wickedneſs, will accept my Repentance, and ſhew Mercy on me; which I hope to obtain through the Paſſion and Merits of my Redeemer, upon whom I entirely caſt my Self.</p>
+                  <p>And that I may find his Mercy, I think my ſelf oblig'd to do Juſtice to my Neighbour, that ſo none may ſuffer wrongfully on my account; and therefore as I am ſoon to anſwer the Truth of what I ſay before the Tri<g ref="char:EOLhyphen"/>bunal of God.</p>
+                  <p>I <hi>Firſt</hi> declare, That I never ſaw any Order or Commiſſion of King <hi>James</hi>'s promoting the Aſſaſſination for which I am Condemn'd: Nei<g ref="char:EOLhyphen"/>ther do I know of any ſuch Order or Commiſſion.</p>
+                  <p>
+                     <hi>Secondly,</hi> That this Deſign was not undertaken with any General Know<g ref="char:EOLhyphen"/>ledge or Approbation of any Body of Men, either Catholick or Prote<g ref="char:EOLhyphen"/>ſtant.</p>
+                  <p>
+                     <hi>Laſtly,</hi> That I did not engage in it on Preſumption of any King-Killing Principles that cou'd juſtifie ſuch an Undertaking, but was drawn into it by my own Raſhneſs and Paſſion, for which and all other Sins I heartily beſeech God to forgive me.</p>
+                  <p>And I hope, that ſuch who think the Misfortune of their Impriſonment or Trouble, is deriv'd from my having been engag'd in this Enterprize, or ſuch to whom it has any ways given Scandal, that they will admit me to their Pardon, as I freely and heartily forgive all Mankind. In this Diſpoſition of a ſincere Repentance and true Charity, I commend my Soul into the Hands of God, and hope to find Mercy from him. And for this I beg all your Prayers.</p>
+                  <closer>
+                     <signed>Ed. King.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <head>Mr. <hi>KEY</hi>'s Paper.</head>
+                  <p>I Am now going to appear before the Living God; I truſt in his Mercy, that he will forgive all my Sins committed to this laſt Moment of my Life. God is juſt in all his Judgments, and I accept of this Death as the Puniſhment of my Iniquities: I forgive all my Enemies, and hope through a Hearty Repentance, and the Merits of my Saviour, to obtain Mercy.</p>
+                  <p>
+                     <q>
+                        <hi>Have Mercy on me, O Father of Mercy, and through thy only Son forgive me all my Sins.</hi>
+                     </q>
+                  </p>
+                  <closer>
+                     <signed>Thomas Key.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <div type="commentary">
+               <head>REFLECTIONS, <hi>&amp;c.</hi>
+               </head>
+               <p>IT is no eaſy task to offer Reflections on what was deliver'd by Men who were to anſwer it very ſoon after, at a great and juſt Tribunal. But ſince the obſervations, that do Naturally occur from the reading theſe Papers, lie heavier on the Cauſe, and Party, and their Religion, and Principles, than on the Perſons of theſe unhappy Men, I think it is a Charity to the Publick to help all readers to re-examine them with due atten<g ref="char:EOLhyphen"/>tion;
+<pb n="3" facs="tcp:29436:2"/>and to make theſe Remarks on them, which are ſo Juſt and Obvious, that even thoſe, who might read them too haſtily, and with too much par<g ref="char:EOLhyphen"/>tiality to obſerve them at firſt, will be forc'd to acknowledge, on a ſecond reading, they are Native and Genuine, without putting any Force or Strain on them.</p>
+               <p n="1">1. Mr. <hi>Charnock</hi> and Mr. <hi>King</hi> do both confeſs the <hi>Fact,</hi> and ſo they have Eſtabliſh'd the Credit of the Witneſſes; but with remarkable difference, that Mr. <hi>King</hi> owns that <hi>God had given him a ſenſe of his Wickedneſs,</hi> and ac<g ref="char:EOLhyphen"/>knowledges the <hi>Juſt Hand of God in his Puniſhment for that Crime in parti<g ref="char:EOLhyphen"/>cular,</hi> and ſo deſires to find <hi>Mercy</hi> at his Hand. But Mr. <hi>Charnock</hi> ſeems not to think ſo hardly of his ſhare in that deſign; he mentions it without any Words condemning it, or importing that he had repented of it; So it is plain he thought it was no Sin. It is as plain that his <hi>Confeſſor</hi> thought ſo too. For as no Man, who knows the Principles of that Religion, will be<g ref="char:EOLhyphen"/>lieve that he would die without Abſolution, ſo no Prieſt, who thought it a Mortal Sin, could give him Abſolution, without obliging him to confeſs the Guilt, as well as the Fact. And, ſince he has not done that, we may well conclude, that his Prieſt thought it was no Sin, and ſo thought him oblig'd to make no other Confeſſion; but what might cover the Party. <hi>Key</hi> ſays nothing at all of the matter; but a Criminal who dies without denying that, for which he is Condemn'd, is preſum'd to confeſs it.</p>
+               <p n="2">2. Both Mr. <hi>Charnock</hi> and Mr. <hi>King</hi> deny that they ſaw or knew of any <hi>Order</hi> or <hi>Commiſſion</hi> of King James, for the <hi>Aſſaſſination.</hi> Mr. <hi>Charnock</hi> adds, <hi>that he has had frequent Aſſurances of his having rejected ſuch propoſals when they have been offered.</hi> It is no great Honour to a <hi>Prince,</hi> that any dare make ſuch propo<g ref="char:EOLhyphen"/>ſals to him. We have a <hi>King</hi> who would treat any that ſhould make ſuch Propoſals to Him in ſuch a manner, as ſhould for ever diſcourage the attempt for the future. When theſe are frequently made, it ſeems the thing is liked, tho' the methods may not be approv'd of, or the time not thought proper. To be often ſo licited is no Character of a ſevere Virtue.</p>
+               <p>But, what is here denied? An <hi>Order</hi> or <hi>Commiſſion</hi> for <hi>Aſſaſſination.</hi> This was never affirmed, nor ſo much as ſuſpected. The word <hi>Aſſaſſination</hi> is too hard to be put in any Princes <hi>Orders</hi> or <hi>Commiſſions.</hi> But a <hi>Commiſſion</hi> to <hi>Attack the Prince of Orange</hi> (as he calls him) <hi>in his Winter Quarters, Or to Seize his Perſon and to fight his Guards,</hi> or to levy War againſt the Perſon of the Prince of <hi>Orange</hi> in <hi>England,</hi> by all ways and means (after which man<g ref="char:EOLhyphen"/>ner we are told, the Witneſſeſs expreſs themſelves) This is not denyed by Mr. <hi>Charnock,</hi> therefore it may be preſumed that it is confeſs'd by him; and the denial of this would have agreed better with the words that go before, in which he owns the <hi>Undertaking to attack the Prince of Orange and his Guards.</hi> Now the natural cloſe of this Period ought to have been (if it had Conſiſted with Truth) that he neither ſaw nor knew of any <hi>Order</hi> or <hi>Commiſſion</hi> from King James for that <hi>Undertaking.</hi> But he changes the word, and puts <hi>Aſſaſſinating</hi> inſtead of it. It is plain, Mr. <hi>Charnock</hi> and Mr. <hi>King,</hi> both had a mind to clear King James as far as they could. But tho' their Confeſſor might bring them to prevaricate and to uſe art in the choice of their laſt words, yet they would not dye with a plain lye in their mouths. A Commiſſion <hi>to Attack the Prince of Orange,</hi> was what was mentioned in the depoſition. That is not denied by them, and there<g ref="char:EOLhyphen"/>fore it is preſumed to be confeſs'd. But, tho' the <hi>Undertaking to Attack the Prince of Orange and his Guards,</hi> is not in expreſs words, a Commiſſion to <hi>Aſſaſſinate</hi> him; yet it were ſuſpecting of any Man's weakneſs too much to go about to prove, that both in effect are one and the ſame thing. When the Evidence is made publick, it will then appear what the depo<g ref="char:EOLhyphen"/>ſitions were, and whether the Proteſtations that are made in theſe Papers, do contradict them or not In the mean time here is a poor pretence; for the party to give out that the Offenders dyed clearing King James
+<pb n="4" facs="tcp:29436:3"/>of any Order or Acceſſion to this matter. They do indeed deny an Order for an <hi>Aſſaſſination,</hi> which was not in the Depoſitions, but they do not deny a Commiſſion <hi>for Attacking his Perſon,</hi> which was mentioned in them. They had a mind to ſay all they could ſay, but durſt not ſay all that was neceſſary for the wipeing off ſo black an imputation.</p>
+               <p n="3">3. Mr. <hi>Charnock</hi> confeſſes that he heard of a <hi>Commiſſion for Levying of War,</hi> tho' he declares <hi>he never ſaw it;</hi> in which he does not contradict the Evi<g ref="char:EOLhyphen"/>dence, but he ſtudies to repreſent this as conſiſting with the deſign of King James's coming over, and as of a peice with it He does not explain the nature of this Commiſſion, nor contradict the Evidence that was given againſt himſelf in this particular. The Artifice here is a little too groſs not to be eaſily obſerved. He has already anſwered for it and I will urge it no more.</p>
+               <p n="4">4. It may be eaſily imagin'd that ſome Perſons were careful enough to put them in mind to juſtify the whole party, but more particularly the Roman Catholicks, and to purge them of any knowledge of this deſign or acceſſion to it. No body can imagine a deſign of this nature was to be talked of about the Town, or to be Communicated to more than thoſe who were to be in ſome manner concerned in it, but it cannot be doubted, but that the Party had it among them, that an overturning of the preſent conſtitution was very near, and very certain; of this ſo many Indications broke out, deliver'd with ſuch an air of aſſurance, and in ſo many different ways and methods, that tho' the party is known to be very Sanguine (I am ſorry that this word belongs to him in both ſenſes) yet there ſeem'd to be ſomewhat on this occaſion, that ſhew'd they depended upon that which was more infallible then an Invaſion, for that was to turn on two ſuch unſteady Elements, as the Winds and the Seas, that they muſt be very Sanguine indeed, if they could be ſo poſitive in a thing that was under ſo many uncertainties. The Aſ<g ref="char:EOLhyphen"/>ſurances with which his deſign was Publiſhed in all parts beyond the Seas. The Triumphs that were made upon it, as ſo well laid that it could not fail. And the Medals prepared for the perpetuating the Memory of it, which without ſuch help is not like to be ſoon forgot will be upon an other occaſion, laid open with ſo much light as will ſilence all the Contradiction of the moſt impudent of the Party. One thing is evident, that if the Party had not at leaſt ſo much warning given them, as to be ready upon that diſmal Signal to run together, and to ſee to their own preſervation, at leaſt till the <hi>French</hi> had landed; it was certainly the moſt barbarous expoſing of them all to the Fury of the Mob that could have been imagined, for it is not to be doubted, but that if they had ſucceeded in that Black deſign of Aſſaſſi<g ref="char:EOLhyphen"/>nating the King, or as Mr. <hi>Charnock</hi> words it, of <hi>Attacking the Prince of O<g ref="char:EOLhyphen"/>range and his Guards,</hi> It would have inflamed the Spirit of the Nation to that degree, that the party if it had not been well prepar'd and fortifi'd would have been quickly Sacrific'd in that height of Fury to which ſo inhumane a Crime muſt have tranſported both City and Country. But how Black and Cruel ſoever theſe deſignes againſt the King, and all his faithful Subjects might have been. Yet we may ſuppoſe, they took more care of their own Friends and Party, and that there was warning enough given them, but in what manner that was done, muſt be referr'd to the ſucceeding Trials, in which there can be little difficulty, ſince the Truth of the deſign is now become evident beyond the poſſibility of Contradiction.</p>
+               <p n="5">5. Mr. <hi>King</hi> Vindicates himſelf from <hi>King-Killing Principles,</hi> and Honeſtly puts this on his own <hi>Raſhneſs and Paſſions.</hi> Mr. <hi>Charnock</hi> it ſeems was not within the reach of this, for he thought the <hi>King</hi> was indeed no <hi>King,</hi> and ſo calls him only the <hi>Prince of Orange;</hi> but it is left to others to Judge what difference there is between thoſe who think that <hi>King William</hi> is not a <hi>King,</hi> and thoſe who think that he is <hi>King de Facto,</hi> yet he has no <hi>Right,</hi> no not ſo much as <hi>by Law</hi> to be <hi>King.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>William Rogérs</hi> at the Sun againſt St. <hi>Dunſtuns-Church</hi> in <hi>Fleetſtreet.</hi> 1696.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
